@@ -31,6 +31,9 @@ Available options:
   --quiet                  Don't produce output, but show timing stats
   -h,--help                Show this help text
    ```
+   Use semantic in Docker: 
+   - $ docker login docker.pkg.github.com
+   - docker pull relying on package versions: https://github.com/github/semantic/packages/11609/versions
 
 ## Language support
 
